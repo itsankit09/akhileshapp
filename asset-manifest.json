@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/akhileshapp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/akhileshapp/static/js/main.68d46af7.chunk.js",
+    "main.js.map": "/akhileshapp/static/js/main.68d46af7.chunk.js.map",
+    "runtime-main.js": "/akhileshapp/static/js/runtime-main.c744d014.js",
+    "runtime-main.js.map": "/akhileshapp/static/js/runtime-main.c744d014.js.map",
+    "static/js/2.ef14d195.chunk.js": "/akhileshapp/static/js/2.ef14d195.chunk.js",
+    "static/js/2.ef14d195.chunk.js.map": "/akhileshapp/static/js/2.ef14d195.chunk.js.map",
+    "index.html": "/akhileshapp/index.html",
+    "precache-manifest.e0e7f3c0c483c882f371cdacad9ae9a1.js": "/akhileshapp/precache-manifest.e0e7f3c0c483c882f371cdacad9ae9a1.js",
+    "service-worker.js": "/akhileshapp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/akhileshapp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ef14d195.chunk.js.LICENSE.txt": "/akhileshapp/static/js/2.ef14d195.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/akhileshapp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c744d014.js",
+    "static/js/2.ef14d195.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.68d46af7.chunk.js"
+  ]
+}
